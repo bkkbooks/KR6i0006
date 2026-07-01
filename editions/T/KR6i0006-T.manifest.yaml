@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0006/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0006/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 八吉祥經
+  identifiers:
+    krp: KR6i0006
+    cbeta: T14n0430
+    cbeta_old_id: T14n0430
+    authorityid: CA0000105
+    json_key: T0430
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0430.xml
+    old_id: T14n0430
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0006_000-T.yaml, hash: 'sha256:28b0e68f557b3392db1543ebcf10ae59a462b6ccf555cec8923ffcce028f69d3'}
+  - {seq: 1, filename: KR6i0006_001-T.yaml, hash: 'sha256:accd3d4fb531ffeef9a4e7e26c08c2ccdd3a4cb7f8fbc5934c96984a2b2b2864'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0006_000-T.markers.yaml, hash: 'sha256:0f24aff79c54c07b7d66552deea61599ff485237d7e7f77d84e620e8f2dcf514'}
+  - {seq: 1, role: markers, filename: assets/KR6i0006_001-T.markers.yaml, hash: 'sha256:c43acbedcfe2f58ad1fc7a41fb7fab98cd449ed933322b4e2bff369c0e28831b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0006_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 895
+  label: 八吉祥經
+  type: juan
+  level: 1
+hash: sha256:a3a7d21687a5f7e3f8c6eb93bf285326e78444c0617ac76a8dc10d42206cf98e

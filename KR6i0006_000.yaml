@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0006/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 八吉祥經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0430.xml
+    old_id: T14n0430
+hash: sha256:28b0e68f557b3392db1543ebcf10ae59a462b6ccf555cec8923ffcce028f69d3
