@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0006_000.yaml, hash: 'sha256:28b0e68f557b3392db1543ebcf10ae59a462b6ccf555cec8923ffcce028f69d3'}
-  - {seq: 1, filename: KR6i0006_001.yaml, hash: 'sha256:1e186b9083894d63a464a854c02e6117496cc746289cc9d7d038ce62330aafe1'}
+  - {seq: 1, filename: KR6i0006_001.yaml, hash: 'sha256:accd3d4fb531ffeef9a4e7e26c08c2ccdd3a4cb7f8fbc5934c96984a2b2b2864'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0006_001.markers.yaml, hash: 'sha256:854a6abe5fec871485940a2e19c0256b7d5b7950f44a5efcd4a52557cc4476c9'}
+  - {seq: 0, role: markers, filename: assets/KR6i0006_000.markers.yaml, hash: 'sha256:ef422143a7c2e3651d8d96d15ab3fe724e5c14b4b85254850710d047f541bcb0'}
+  - {seq: 1, role: markers, filename: assets/KR6i0006_001.markers.yaml, hash: 'sha256:a92f5101c963443ba67de482568f8da2fd27698aa758db43b5aa55e0d6ee430a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 八吉祥經
   type: juan
   level: 1
-hash: sha256:bad2bb665ee775d7897e273ecbf7c4bafaa41bf96d1dde7d149672cf9522432e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3dbb824fbf8ac94df95fbd623180897ec6978b3f0a754ac5203dc54eea67d040
